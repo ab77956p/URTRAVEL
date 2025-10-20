@@ -1,0 +1,14 @@
+UR-TRAVEL/
+│
+├── index.html          (الملف الرئيسي الذي لديك)
+├── README.md           (الملف الذي أنشأناه)
+├── LICENSE             (رخصة المشروع)
+├── .gitignore          (ملف استبعاد git)
+└── assets/             (مجلد الموارد)
+    ├── css/
+    │   └── style.css   (يمكنك فصل CSS هنا لاحقًا)
+    ├── js/
+    │   └── script.js   (يمكنك فصل JavaScript هنا لاحقًا)
+    └── images/         (لصور إضافية)
+        ├── logo.png
+        └── favicon.ico
